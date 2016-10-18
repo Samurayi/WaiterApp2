@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/exquisite_leaf_background_01_vector_178936">
+    <Button
+        android:text="Add new item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addNew" />
+    <Button
+        android:text="Modify / Delete item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mdItem" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/itemView"
+        android:background="@android:color/background_dark" />
+</LinearLayout>

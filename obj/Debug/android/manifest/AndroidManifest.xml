@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="WaiterApp.WaiterApp" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.SUBSCRIBED_FEEDS_READ" />
+  <uses-permission android:name="android.permission.SUBSCRIBED_FEEDS_WRITE" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="WaiterApp" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="addNew" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.addNew" />
+    <activity android:label="Invoice" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.Invoice" />
+    <activity android:label="itemChoose" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.itemChoose" />
+    <activity android:icon="@drawable/icon" android:label="WaiterApp" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Modify" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.Modify" />
+    <activity android:label="ModifyItem" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.ModifyItem" />
+    <activity android:label="Order" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.Order" />
+    <activity android:label="PriceList" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.PriceList" />
+    <activity android:label="settings" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.settings" />
+    <activity android:label="Tables" android:name="md5f9a4aec79772e1b5cad3881a2484f5e8.Tables" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="WaiterApp.WaiterApp.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.WaiterApp.WaiterApp" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

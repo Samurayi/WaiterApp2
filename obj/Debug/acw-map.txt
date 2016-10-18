@@ -1,0 +1,40 @@
+WaiterApp.addNew, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.addNew
+WaiterApp.addNew, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.addNew
+WaiterApp.addNew;md5f9a4aec79772e1b5cad3881a2484f5e8.addNew
+waiterapp.addNew;md5f9a4aec79772e1b5cad3881a2484f5e8.addNew
+WaiterApp.Invoice, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.Invoice
+WaiterApp.Invoice, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.Invoice
+WaiterApp.Invoice;md5f9a4aec79772e1b5cad3881a2484f5e8.Invoice
+waiterapp.Invoice;md5f9a4aec79772e1b5cad3881a2484f5e8.Invoice
+WaiterApp.itemChoose, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.itemChoose
+WaiterApp.itemChoose, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.itemChoose
+WaiterApp.itemChoose;md5f9a4aec79772e1b5cad3881a2484f5e8.itemChoose
+waiterapp.itemChoose;md5f9a4aec79772e1b5cad3881a2484f5e8.itemChoose
+WaiterApp.MainActivity, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.MainActivity
+WaiterApp.MainActivity, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.MainActivity
+WaiterApp.MainActivity;md5f9a4aec79772e1b5cad3881a2484f5e8.MainActivity
+waiterapp.MainActivity;md5f9a4aec79772e1b5cad3881a2484f5e8.MainActivity
+WaiterApp.Modify, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.Modify
+WaiterApp.Modify, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.Modify
+WaiterApp.Modify;md5f9a4aec79772e1b5cad3881a2484f5e8.Modify
+waiterapp.Modify;md5f9a4aec79772e1b5cad3881a2484f5e8.Modify
+WaiterApp.ModifyItem, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.ModifyItem
+WaiterApp.ModifyItem, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.ModifyItem
+WaiterApp.ModifyItem;md5f9a4aec79772e1b5cad3881a2484f5e8.ModifyItem
+waiterapp.ModifyItem;md5f9a4aec79772e1b5cad3881a2484f5e8.ModifyItem
+WaiterApp.Order, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.Order
+WaiterApp.Order, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.Order
+WaiterApp.Order;md5f9a4aec79772e1b5cad3881a2484f5e8.Order
+waiterapp.Order;md5f9a4aec79772e1b5cad3881a2484f5e8.Order
+WaiterApp.PriceList, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.PriceList
+WaiterApp.PriceList, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.PriceList
+WaiterApp.PriceList;md5f9a4aec79772e1b5cad3881a2484f5e8.PriceList
+waiterapp.PriceList;md5f9a4aec79772e1b5cad3881a2484f5e8.PriceList
+WaiterApp.settings, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.settings
+WaiterApp.settings, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.settings
+WaiterApp.settings;md5f9a4aec79772e1b5cad3881a2484f5e8.settings
+waiterapp.settings;md5f9a4aec79772e1b5cad3881a2484f5e8.settings
+WaiterApp.Tables, WaiterApp;md5f9a4aec79772e1b5cad3881a2484f5e8.Tables
+WaiterApp.Tables, WaiterApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f9a4aec79772e1b5cad3881a2484f5e8.Tables
+WaiterApp.Tables;md5f9a4aec79772e1b5cad3881a2484f5e8.Tables
+waiterapp.Tables;md5f9a4aec79772e1b5cad3881a2484f5e8.Tables
